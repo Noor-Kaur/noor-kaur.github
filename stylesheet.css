@@ -88,6 +88,7 @@ header{
 .textt ul{
 	float:left;
 	margin-top:20px;
+	list-style:none;
 }
 
 .textt a{
